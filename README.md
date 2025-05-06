@@ -1,2 +1,4 @@
 # CEN 4802
-Repostiroty for the class
+Repository for the class CEN 4802, Summer 2025
+Dahnia K Belizaire
+
